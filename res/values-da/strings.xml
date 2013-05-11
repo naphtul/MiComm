@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_settings">Indstillinger</string>
+    <string name="add_page">Tilføj en ny side</string>
+    <string name="app_name">MiComm</string>
+    <string name="audio_not_ready">Lydfiler loader stadig i baggrunden. Prøv igen senere.</string>
+    <string name="browse_and_replace">Udskift billede med billede fra galleri</string>
+    <string name="browse_for_image">Vælg billede fra galleri</string>
+    <string name="cancel">Afvis</string>
+    <string name="delete_audio_link">Slet tilknyttet lydfil</string>
+    <string name="delete_image_from_database">Slet billede</string>
+    <string name="delete_video_link">Slet tilknyttet video</string>
+    <string name="display_tutorial">Vis vejledning igen</string>
+    <string name="exit">Exit</string>
+    <string name="export_completed">Eksport udført</string>
+    <string name="export_page">Eksportside</string>
+    <string name="failure_connecting_to_server">Server is unreachable. Please check your connection and try again.</string>
+    <string name="help_caption">Hjælp</string>
+    <string name="import_page">Importside</string>
+    <string name="link_existing_video">Tilføj en gallery video</string>
+    <string name="link_existing_video_and_replace">Udskift med gallery video</string>
+    <string name="media_processing">The media is still processing. Please try again later.</string>
+    <string name="modify_description">Skift billedtekst</string>
+    <string name="modify_description_explanation">When no media is linked, changing the caption will use TTS to create an audio. Select voice in the Settings.</string>
+    <string name="not_associated">Der er intet medie knyttet til dette billede. Klik og hold nede for muligheder.</string>
+    <string name="ok">OK</string>
+    <string name="options_name">Muligheder</string>
+    <string name="page">Side</string>
+    <string name="problem_loading_image">There was a problem loading the image you\'ve selected. Please try again, and if the problem persists, please select another image.</string>
+    <string name="record_audio">Optag en lydfil</string>
+    <string name="record_audio_and_replace">Udskift med en ny lydfil.</string>
+    <string name="remove_page">Fjern side</string>
+    <string name="remove_page_confirmation">Er du sikker på, du ønsker at fjerne</string>
+    <string name="rename_page">Omdøb side</string>
+    <string name="showcase_tile">Klik og hold nede for muligheder</string>
+    <string name="showcase_tile_title">Thumbnails</string>
+    <string name="showcase_swipe">Swipe for at gå videre</string>
+    <string name="showcase_swipe_title">Sider</string>
+    <string name="take_and_replace">Udskift med et nyt foto</string>
+    <string name="take_photo">Tag et foto</string>
+    <string name="take_video">Optag en video</string>
+    <string name="take_video_and_replace">Udskift med en ny video</string>
+    <string name="title_activity_help">MiComm Hjælp</string>
+    <string name="title_activity_video_playback">MiComm - Video Afspilning</string>
+    <string name="unable_to_record_audio">Ude af stand til at optage lyd. Hvis problemet fortsætter, kontakt venligst udvikler på naphtul@gmail.com</string>
+    <string name="video_not_ready">Ude af stand til at spille den video, der er knyttet til dette billede. Optag venligst en ny.</string>
+    
+    <!-- Strings related to Settings -->
+    <string name="pref_title_micomm_tile_size">Billedstørrelse</string>
+	<string name="pref_title_micomm_num_of_tiles">Max billeder pr. side</string>
+	<string name="pref_voices">Text-to-Speech voice</string>
+
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help_text">Editing mode ("Parents mode"):\n
+Create a communication topic with 3 simple steps:\n
+	1. Click the Options button (or three vertical dots) and select Add Page. Give that page a name as you would call your topic (e.g. "Bath time").\n
+	2. Tap and hold the Camera icon and select any of the options to take a photo or select an existing one from the gallery.\n
+	3. Tap and hold a small image and select any of the options to link a media to that image.\n
+		A media could be taking a new video, selecting an existing video from the gallery, recording an audio with you own voice, or using a Text-To-Speech online service which offers 82 voices in 23 languages.\n
+		The TTS option is powered by Oddcast.\n
+		To use the TTS option, select a voice from the Settings page. Tap and hold an image and select Delete attached audio. Tap and hold an image and select Text-to-Speech. Enter a description to the image. The voice will be added automatically. Changing an image caption without deleting the audio first will not replace the existing audio with a TTS audio.\n
+	\n
+Playback mode ("Kids mode"):\n
+Click any of the small images to playback a video or audio linked to that image. For example, click "I want" and then "A glass of water".\n
+\n
+Advanced features:\n
+	1. Export page:\n
+	You may Export pages that you would like to share with others. For example you\'ve prepared a wonderful custom page that you would like both parents to have.\n
+	While on that page, click the Options button and select Export. The process may take a while, depending on the length of the videos you took. A zip file is created in the MiComm folder ("/sdcard/Pictures/MiComm/"). Move that zip file to your other device, preferably to the same folder.\n
+	2. Import page:\n
+	This feature is designed to import pages previously exported using the Export feature. Click the Options button and select Import. Select the file you have previously put on your sdcard. The process may take a while, depending on the length of the videos you are trying to import.</string>
+</resources>

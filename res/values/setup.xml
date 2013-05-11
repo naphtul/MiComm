@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="ad_unit_id" translatable="false">ca-app-pub-7596391938029302/4035547670</string>
+	<string name="interstitial_unit_id" translatable="false">ca-app-pub-7596391938029302/6884783277</string>
+	<string name="album_name" translatable="false">MiComm</string>
+	<string name="copyright" translatable="false">The Picture Communication Symbols ©1981–2010 by Mayer-Johnson LLC. All Rights Reserved Worldwide. Used with permission. Boardmaker™ is a trademark of Mayer-Johnson LLC.</string>
+	<string name="db_name" translatable="false">MiComm.db</string>
+	<string name="pref_languages" translatable="false">Display language</string>
+	<string-array translatable="false" name="pref_micomm_num_columns_rows">
+		<item>1</item>
+		<item>2</item>
+		<item>3</item>
+		<item>4</item>
+		<item>5</item>
+		<item>6</item>
+		<item>7</item>
+		<item>8</item>
+	</string-array>
+</resources>

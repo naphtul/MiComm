@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help_text">Redigeringstilstand (Forældretilstand):\n
+Opret et kommunikations tema med 3 enkle trin:\n
+	1. Klik på Indstillinger (eller tre vertikale prikker) og vælg Tilføj Side. Giv siden et navn, som du vil kalde dit tema (f.eks. "badetid"\n
+	2. Klik og hold nede på kameraikonet og vælg en indstilling for at tage et foto.\n
+	3. Klik og hold nede på det lille billede og vælg en indstilling for at hæfte et medie til billedet.\n
+	\n
+Afspilningstilstand ("Børnetilstand"):\n
+Klik på et af de små billeder for at afspille en video eller lydfil, der er knyttet til fotoet. For eksempel: Klik "Jeg ønsker" og så "Et glas vand".\n
+\n
+Advancerede funktioner:\n
+	1. Eksporter side:\n
+ Du kan eksportere sider, som du vil dele med andre. For eksempel har du lavet en skøn 	påklædningsside, som du gerne vil have begge forældre har\n
+Når du er på siden: klik Indstillinger og vælg Eksport. Processen kan tage lidt tid, afhængigt af længden af videoen. Der bliver dannet en zip fil i MiComm-folderen ("/sdcard/Pictures/MiComm/"). Flyt zip filen til dit andet apparat, helst til den samme folder. Eksportfunktionen er kun tilgængelig i den betalte version.\n
+	2. Importer side:\n
+	Denne side er designet til at importere sider, der er eksporteret ved brug af Eksport funktionen. Klik på Indstilling og vælg Import. Vælg den fil, du tidligere har puttet på dit sdcard. Processen kan tage lidt tid afhængigt af længden af de videoer, du prøver at importere.</string>
+</resources>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="sign_language">Sign language</string>
+    <string name="done">Done</string>
+    <string name="i_dont_want">I do not want</string>
+    <string name="i_want">I want</string>
+    <string name="more">More</string>
+    <string name="right">Yes</string>
+    <string name="wrong">No</string>
+    
+    <string name="daily_usage">Daily Routines</string>
+    <string name="bath">Take a bath</string>
+    <string name="bedtime">Time for bed</string>
+    <string name="brush_teeth">Brush my teeth</string>
+    <string name="get_dressed">Get Dressed</string>
+    <string name="mommy">Mommy</string>
+    <string name="poop">Sit on the toilet</string>
+    <string name="toilet">Toilet</string>
+    <string name="wash_face">Wash my face</string>
+    <string name="wash_hair">Wash my hair</string>
+    <string name="wash_hands">Wash my hands</string>
+    
+    <string name="speech_therapist">Lip movement</string>
+    <string name="a">A</string>
+    <string name="e">E</string>
+    <string name="i">I</string>
+    <string name="o">O</string>
+    <string name="u">U</string>
+        
+    <string name="calendar_events">Calendar events</string>
+    <string name="holiday1">Happy New Year!</string>
+    <string name="holiday2">Thanksgiving</string>
+    <string name="holiday3">Halloween</string>
+    <string name="holiday4">Christmas</string>
+
+    <string name="weekly_schedule">Activities</string>
+    <string name="music_class">Music Class</string>
+    <string name="playground">Playground</string>
+    <string name="swimming_class">Swimming Class</string>
+    
+    <string name="songs">Songs</string>
+    <string name="call">Shout Hooray</string>
+    <string name="clap">Clap your hands</string>
+    <string name="feet">Stomp your feet</string>
+    <string name="happy">If you are happy</string>
+    <string name="hug">Hug</string>
+    <string name="kiss">Kiss</string>
+    <string name="laugh">Laugh</string>
+    
+    <string name="breakfast">Breakfast</string>
+    <string name="bread">Bread</string>
+    <string name="cheese">Cheese</string>
+    <string name="cucumber">Cucumber</string>
+    <string name="drink">Drink</string>
+    <string name="eat">Eat</string>
+    <string name="fork">Fork</string>
+    <string name="omlet">Omelette</string>
+    <string name="plate">Plate</string>
+    <string name="sandwich">Sandwich</string>
+    <string name="spoon">Spoon</string>
+    <string name="tomato">Tomato</string>
+    <string name="water">A glass of water</string>
+    
+</resources>

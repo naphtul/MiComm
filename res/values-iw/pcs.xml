@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="sign_language">שפת הסימנים</string>
+    <string name="done">גמרתי</string>
+    <string name="i_dont_want">אני לא רוצה</string>
+    <string name="i_want">אני רוצה</string>
+    <string name="more">עוד</string>
+    <string name="right">כן</string>
+    <string name="wrong">לא</string>
+
+    <string name="daily_usage">סדר יום</string>
+    <string name="bath">אמבטיה</string>
+    <string name="bedtime">זמן לישון</string>
+    <string name="brush_teeth">לצחצח שיניים</string>
+    <string name="get_dressed">להתלבש</string>
+    <string name="mommy">אמא</string>
+    <string name="poop">לשבת בשירותים</string>
+    <string name="toilet">ללכת לשירותים</string>
+    <string name="wash_face">לשטוף פנים</string>
+    <string name="wash_hair">לחפוף את הראש</string>
+    <string name="wash_hands">לשטוף ידיים</string>
+
+    <string name="speech_therapist">קלינאית תקשורת</string>
+    <string name="a">אַ</string>
+    <string name="e">אֵ</string>
+    <string name="i">אִ</string>
+    <string name="o">אׁ</string>
+    <string name="u">אֻ</string>
+
+    <string name="calendar_events">חגים</string>
+    <string name="holiday1">ראש השנה</string>
+    <string name="holiday2">סוכות</string>
+    <string name="holiday3">חנוכה</string>
+    <string name="holiday4">פסח</string>
+
+    <string name="weekly_schedule">פעילויות</string>
+    <string name="music_class">שיעור מוזיקה</string>
+    <string name="playground">גן שעשועים</string>
+    <string name="swimming_class">שיעור שחייה</string>
+
+    <string name="songs">שירים</string>
+    <string name="call">היי הו</string>
+    <string name="clap">כף ימחא</string>
+    <string name="feet">שירקע</string>
+    <string name="happy">מי שטוב לו ושמח</string>
+    <string name="hug">שיחבק</string>
+    <string name="kiss">שינשק</string>
+    <string name="laugh">שיצחק</string>
+
+    <string name="breakfast">ארוחת בוקר</string>
+    <string name="bread">לחם</string>
+    <string name="cheese">גבינה צהובה</string>
+    <string name="cucumber">מלפפון</string>
+    <string name="drink">לשתות</string>
+    <string name="eat">לאכול</string>
+    <string name="fork">מזלג</string>
+    <string name="omlet">ביצת עין</string>
+    <string name="plate">צלחת</string>
+    <string name="sandwich">כריך</string>
+    <string name="spoon">כפית</string>
+    <string name="tomato">עגבניה</string>
+    <string name="water">כוס מים</string>
+
+</resources>

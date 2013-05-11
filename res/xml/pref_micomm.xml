@@ -1,0 +1,39 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <il.co.gilead.micomm.SeekBarPreference 
+        android:key="tile_size"
+	    android:title="@string/pref_title_micomm_tile_size"
+	    android:defaultValue="144"
+	    android:text=" pixels"
+	    android:max="400" />
+
+    <il.co.gilead.micomm.SeekBarPreference 
+        android:key="num_of_tiles"
+	    android:title="@string/pref_title_micomm_num_of_tiles"
+	    android:defaultValue="12"
+	    android:max="24" />
+
+    <CheckBoxPreference 
+        android:title="@string/display_tutorial" 
+        android:disableDependentsState="true" 
+        android:key="display_tutorial" />
+
+    <ListPreference 
+        android:key="voices"
+        android:title="@string/pref_voices"
+        android:entries="@array/voices"
+        android:entryValues="@array/voices_ids"
+        android:positiveButtonText="@string/ok"
+        android:dialogTitle="@string/pref_voices"
+        android:negativeButtonText="@string/cancel"/>
+
+    <ListPreference 
+        android:key="languages"
+        android:title="@string/pref_languages"
+        android:entries="@array/languages"
+        android:entryValues="@array/languages_ids"
+        android:positiveButtonText="@string/ok"
+        android:dialogTitle="@string/pref_languages"
+        android:negativeButtonText="@string/cancel"/>
+
+</PreferenceScreen>

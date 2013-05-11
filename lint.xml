@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="HardcodedText">
+        <ignore path="res\layout\activity_grid_fragment.xml" />
+    </issue>
+    <issue id="OldTargetApi">
+        <ignore path="AndroidManifest.xml" />
+    </issue>
+    <issue id="SmallSp">
+        <ignore path="res\layout\activity_grid_fragment.xml" />
+    </issue>
+</lint>

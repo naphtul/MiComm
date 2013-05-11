@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="sign_language">Tegnsprog</string>
+    <string name="done">færdig</string>
+    <string name="i_dont_want">Jeg vil ikke</string>
+    <string name="i_want">Jeg vil</string>
+    <string name="more">Mere</string>
+    <string name="right">Ja</string>
+    <string name="wrong">Nej</string>
+    
+    <string name="daily_usage">Daglige rutiner</string>
+    <string name="bath">Tage et bad</string>
+    <string name="bedtime">Sengetid</string>
+    <string name="brush_teeth">Børste mine tænder</string>
+    <string name="get_dressed">Tage tøj på</string>
+    <string name="mommy">Mor</string>
+    <string name="poop">Sidde på toilet</string>
+    <string name="toilet">Toilet</string>
+    <string name="wash_face">Vaske mit ansigt</string>
+    <string name="wash_hair">Vaske mit hår</string>
+    <string name="wash_hands">Vaske mine hænder</string>
+    
+    <string name="speech_therapist">Læbe bevægelser</string>
+    <string name="a">A</string>
+    <string name="e">E</string>
+    <string name="i">I</string>
+    <string name="o">O</string>
+    <string name="u">U</string>
+        
+    <string name="calendar_events">Kalender hændelser</string>
+    <string name="holiday1">Godt Nytår!</string>
+    <string name="holiday2">Fastelavn</string>
+    <string name="holiday3">Halloween</string>
+    <string name="holiday4">Jul</string>
+
+    <string name="weekly_schedule">Aktiviteter</string>
+    <string name="music_class">Musiktid</string>
+    <string name="playground">Legeplads</string>
+    <string name="swimming_class">Svømning</string>
+    
+    <string name="songs">sange</string>
+    <string name="call">Råbe</string>
+    <string name="clap">Klappe</string>
+    <string name="feet">Trampe</string>
+    <string name="happy">Kysse</string>
+    <string name="hug">Kramme</string>
+    <string name="kiss">Hvis du er i godt humør</string>
+    <string name="laugh">Grine</string>
+    
+    <string name="breakfast">Morgenmad</string>
+    <string name="bread">Brød</string>
+    <string name="cheese">Ost</string>
+    <string name="cucumber">Agurk</string>
+    <string name="drink">Drik</string>
+    <string name="eat">Spis</string>
+    <string name="fork">Gaffel</string>
+    <string name="omlet">Omelet</string>
+    <string name="plate">Tallerken</string>
+    <string name="sandwich">Sandwich</string>
+    <string name="spoon">Ske</string>
+    <string name="tomato">Tomat</string>
+    <string name="water">et glas vand</string>
+    
+</resources>

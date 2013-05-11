@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_settings">Settings</string>
+    <string name="add_page">Add a new page</string>
+    <string name="app_name">MiComm</string>
+    <string name="audio_not_ready">Audios are still loading in background. Try again soon.</string>
+    <string name="browse_and_replace">Replace image with gallery image</string>
+    <string name="browse_for_image">Select image from gallery</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete_audio_link">Delete attached audio</string>
+    <string name="delete_image_from_database">Delete image</string>
+    <string name="delete_video_link">Delete attached video</string>
+    <string name="display_tutorial">Display tutorial again</string>
+    <string name="exit">Exit</string>
+    <string name="export_completed">Export completed</string>
+    <string name="export_page">Export page</string>
+    <string name="failure_connecting_to_server">Server is unreachable. Please check your connection and try again.</string>
+    <string name="help_caption">Help</string>
+    <string name="import_page">Import page</string>
+    <string name="link_existing_video">Link a gallery video</string>
+    <string name="link_existing_video_and_replace">Replace with gallery video</string>
+    <string name="media_processing">The media is still processing. Please try again later.</string>
+    <string name="modify_description">Text-to-Speech / Change caption</string>
+    <string name="modify_description_explanation">When no media is linked, changing the caption will use TTS to create an audio. Select voice in the Settings.</string>
+    <string name="not_associated">There\'s no media associated with this image. Tap and hold for options.</string>
+    <string name="ok">OK</string>
+    <string name="options_name">Options</string>
+    <string name="page">Page</string>
+    <string name="problem_loading_image">There was a problem loading the image you\'ve selected. Please try again, and if the problem persists, please select another image.</string>
+    <string name="record_audio">Record an audio</string>
+    <string name="record_audio_and_replace">Replace with a new audio</string>
+    <string name="remove_page">Remove page</string>
+    <string name="remove_page_confirmation">Are you sure you want to remove</string>
+    <string name="rename_page">Rename page</string>
+    <string name="showcase_tile">Tap and hold for options</string>
+    <string name="showcase_tile_title">Thumbnails</string>
+    <string name="showcase_swipe">Swipe to move</string>
+    <string name="showcase_swipe_title">Pages</string>
+    <string name="take_and_replace">Replace with a new photo</string>
+    <string name="take_photo">Take a photo</string>
+    <string name="take_video">Record a video</string>
+    <string name="take_video_and_replace">Replace with a new video</string>
+    <string name="title_activity_help">MiComm Help</string>
+    <string name="title_activity_video_playback">MiComm - Video Playback</string>
+    <string name="unable_to_record_audio">Unable to record audio. If problem persists, please contact developer at naphtul@gmail.com</string>
+    <string name="video_not_ready">Unable to play the video attached to this image. Please record a new one.</string>
+    
+    <!-- Strings related to Settings -->
+    <string name="pref_title_micomm_tile_size">Image size</string>
+	<string name="pref_title_micomm_num_of_tiles">Max images per page</string>
+	<string name="pref_voices">Text-to-Speech voice</string>
+
+</resources>

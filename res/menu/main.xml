@@ -1,0 +1,57 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+<!--     <item
+        android:id="@+id/main_app_screen"
+        android:orderInCategory="50"
+        android:showAsAction="always"
+        android:title="@string/main_screen"/>
+ -->
+    <item
+        android:id="@+id/add_page"
+        android:orderInCategory="200"
+        android:showAsAction="never"
+        android:title="@string/add_page"/>
+
+	<item
+        android:id="@+id/rename_page"
+        android:orderInCategory="210"
+        android:showAsAction="never"
+        android:title="@string/rename_page"/>
+
+    <item
+        android:id="@+id/remove_page"
+        android:orderInCategory="220"
+        android:showAsAction="never"
+        android:title="@string/remove_page"/>
+
+    <item
+        android:id="@+id/export_page"
+        android:orderInCategory="270"
+        android:showAsAction="never"
+        android:title="@string/export_page"/>
+
+	<item
+        android:id="@+id/import_page"
+        android:orderInCategory="280"
+        android:showAsAction="never"
+        android:title="@string/import_page"/>
+
+	<item
+        android:id="@+id/action_settings"
+        android:orderInCategory="350"
+        android:showAsAction="never"
+        android:title="@string/action_settings"/>
+
+	<item
+        android:id="@+id/help"
+        android:orderInCategory="380"
+        android:showAsAction="never"
+        android:title="@string/help_caption"/>
+
+	<item
+        android:id="@+id/exit"
+        android:orderInCategory="400"
+        android:showAsAction="never"
+        android:title="@string/exit"/>
+
+</menu>

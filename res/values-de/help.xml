@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help_text">Bearbeitungsmodus("Elternmodus"):\n
+Erstellen Sie ein Kommunikationsthema in 3 einfachen Schritten:\n
+	1. Drücken Sie den Einstellungsbutton (oder drei vertikale Punkte) und wählen sie Neue Seite hinzufügen aus. Benennen Sie diese, so wie Sie das Thema bezeichnen würden (z. B. „Badezeit").\n
+	2. Drücken und halten Sie das Kamerasymbol und wählen Sie eine Aufnahmefunktion aus oder wählen Sie ein bereits bestehendes Bild aus der Galerie.\n
+	3. Drücken und halten Sie ein kleines Bild und wählen Sie eine der Optionen, um Medien zu dem Bild zu verlinken.\n
+		Solche Medien können aufgenommene Videos sein, aus der Galerie ausgewählte Videodateien, Audioaufnahmen der eigenen Stimme oder die Verwendung eines Text-zu-Sprache-Onlineservices, welcher 82 Stimmen in 23 Sprachen umfasst.\n
+		Die TTS (Text-zu-Sprache) Option ist unterstützt von Oddcast.\n
+		Um die TTS Option zu benutzen, wählen sie eine Stimme von der Einstellungsseite. Drücken und halten Sie ein Bild und wählen Sie es aus. Löschen Sie die hinzugefügte Audiodatei. Drücken und halten Sie ein Bild und wählen Sie Text-zu-Sprache. Geben Sie eine Beschreibung zu einem Bild ein. Die Stimme wird automatisch hinzugefügt. Das Ändern einer Bildunterschrift, ohne zuerst die zugehörige Audiodatei zu löschen führt dazu, dass die Audiodatei nicht mit einer TTs-Audiodatei ersetzt wird.\n
+	\n
+Wiedergabe Modus ("Kindermodus"):\n
+Drücke eines der kleinen Bilder, um das verknüpfte Video oder die Audio-Datei abzuspielen. Zum Beispiel, drücke "Ich möchte" und dann"ein Glas Wasser".\n
+\n
+Weitere Besonderheiten:\n
+	1. Seite exportieren:\n
+	Du willst vielleicht Seiten exportieren, um sie mit Anderen zu teilen. Beispielsweise hast du eine tolle Seite gestaltet und du möchtest, dass beide Eltern sie haben.\n
+	Während du auf der Seite bist, drückst du auf den Options-Knopf und wählst exportieren aus. Das Exportieren könnte eine Weile dauern. Je nachdem, wie groß die Dateien sind. Im MiComm-Ordner("/sdcard/Pictures/MiComm/") ist eine Zip-Datei davon erstellt worden. Befördere diese zu deinem anderen Gerät. Am Besten in den selben Ordner.\n
+	2. Seite importieren:\n
+	Diese Funktion wurde gestaltet, um Seiten zu importieren, welche vorher exportiert wurden. Drücke den Optionen-Knopf und wähle Importieren aus. Wähle die Datei aus, die du vorher auf deine SD-Karte gespeichert hast. Das importieren könnte eine Weile dauern. Je nachdem, wie groß die zu importierenden Dateien sind.</string>
+</resources>

@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_settings">Einstellungen</string>
+    <string name="add_page">Neue Seite erstellen</string>
+    <string name="app_name">MiComm</string>
+    <string name="audio_not_ready">Die Audiodateien laden noch im Hintergrund. Probieren Sie es später noch einmal.</string>
+    <string name="browse_and_replace">Bild mit Galeriebild ersetzen</string>
+    <string name="browse_for_image">Bild aus der Galerie auswählen</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="delete_audio_link">Zugefügte Audiodatei löschen</string>
+    <string name="delete_image_from_database">Bild löschen</string>
+    <string name="delete_video_link">Zugefügtes Video löschen</string>
+    <string name="display_tutorial">Anleitung nochmals anzeigen</string>
+    <string name="exit">Beenden</string>
+    <string name="export_completed">Export vollständig</string>
+    <string name="export_page">Seite exportieren</string>
+    <string name="failure_connecting_to_server">Der Server ist nicht erreichbar. Bitte überprüfen Sie ihre Verbindung und probieren Sie es noch einmal.</string>
+    <string name="help_caption">Hilfe</string>
+    <string name="import_page">Seite importieren</string>
+    <string name="link_existing_video">Galerievideo verlinken</string>
+    <string name="link_existing_video_and_replace">Mit Galerievideo ersetzen</string>
+	<string name="media_processing">Die Datei ist noch in Bearbeitung. Bitte probieren Sie es später noch einmal.</string>
+    <string name="modify_description">Text-zu-Sprache / Überschrift ändern</string>
+	<string name="modify_description_explanation">Wenn keine Datei verknüpft ist, wird TTS bei der Veränderung der Bildunterschrift eine Stimme erstellen. Wählen Sie eine Stimme in den Einstellungen.</string>
+    <string name="not_associated">Keine Medien mit diesem Bild verbunden. Drücken und halten für Optionen.</string>
+    <string name="ok">OK</string>
+    <string name="options_name">Optionen</string>
+    <string name="page">Seite</string>
+	<string name="problem_loading_image">Es gab ein Problem beim Laden des Bildes. Bitte probieren Sie es später noch einmal und wählen Sie ein anderes, wenn das Problem bestehen bleibt.</string>
+    <string name="record_audio">Audiodatei aufnehmen</string>
+    <string name="record_audio_and_replace">Mit neuer Audiodatei ersetzen</string>
+    <string name="remove_page">Seite entfernen</string>
+    <string name="remove_page_confirmation">Sind Sie sicher, dass Sie diese Seite löschen möchten?</string>
+    <string name="rename_page">Seite umbenennen</string>
+    <string name="showcase_tile">Drücken und halten für Optionen</string>
+    <string name="showcase_tile_title">Vorschaubilder</string>
+    <string name="showcase_swipe">Wischen, um zu bewegen</string>
+    <string name="showcase_swipe_title">Seiten</string>
+    <string name="take_and_replace">Mit einem neuen Foto ersetzen</string>
+    <string name="take_photo">Foto aufnehmen</string>
+    <string name="take_video">Video aufnehmen</string>
+    <string name="take_video_and_replace">Mit einem neuen Video ersetzen</string>
+    <string name="title_activity_help">MiComm Hilfe</string>
+    <string name="title_activity_video_playback">MiComm - Video Playback</string>
+    <string name="unable_to_record_audio">Audioaufnahme nicht möglich. Wenn das Problem bestehen bleibt, kontaktieren Sie bitte den Entwickler unter naphtul@gmail.com</string>
+    <string name="video_not_ready">Abspielen des hinzugefügten Videos nicht möglich. Bitte nehmen Sie ein Neues auf.</string>
+    
+    <!-- Strings related to Settings -->
+    <string name="pref_title_micomm_tile_size">Bildgröße</string>
+	<string name="pref_title_micomm_num_of_tiles">Maximale Bilderanzahl pro Seite</string>
+	<string name="pref_voices">Text-zu-Sprache Stimme</string>
+
+</resources>

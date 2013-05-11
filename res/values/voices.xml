@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="voices">
+		<item>English (US) Susan (F)</item>
+		<item>English (US) Dave (M)</item>
+		<item>English (US) Allison (F)</item>
+		<item>English (US) Steven (M)</item>
+		<item>English (US) Kate (F)</item>
+		<item>English (US) Paul (M)</item>
+		<item>English (US) Julie (F)</item>
+		<item>English (UK) Elizabeth (F)</item>
+		<item>English (UK) Simon (M)</item>
+		<item>English (UK) Catherine (F)</item>
+		<item>English (UK) Bridget (F)</item>
+		<item>English (Australian) Alan (M)</item>
+		<item>English (Australian) Grace (F)</item>
+		<item>English (Indian) Veena (F)</item>
+		<item>Spanish (Castilian) Carmen (F)</item>
+		<item>Spanish (Castilian) Juan (M)</item>
+		<item>Spanish (Chilean) Francisca (F)</item>
+		<item>Spanish (Argentine) Diego (M)</item>
+		<item>Spanish (Mexican) Esperanza (F)</item>
+		<item>Spanish (Castilian) Jorge (M)</item>
+		<item>Spanish (American) Carlos (M)</item>
+		<item>Spanish (American) Soledad (F)</item>
+		<item>Spanish (Castilian) Leonor (F)</item>
+		<item>Spanish (American) Ximena (F)</item>
+		<item>Spanish Violeta (F)</item>
+		<item>German Stefan (M)</item>
+		<item>German Katrin (F)</item>
+		<item>French (European) Bernard (M)</item>
+		<item>French (European) Jolie (F)</item>
+		<item>French (European) Florence (F)</item>
+		<item>French (Canadian) Charlotte (F)</item>
+		<item>French (Canadian) Olivier (M)</item>
+		<item>Catalan Montserrat (F)</item>
+		<item>Catalan Jordi (M)</item>
+		<item>Catalan (Valencian) Empar (F)</item>
+		<item>Portuguese (Brasilian) Gabriela (F)</item>
+		<item>Portuguese (European) Amalia (F)</item>
+		<item>Portuguese (European) Eusebio (M)</item>
+		<item>Portuguese (Brazilian) Fernanda (F)</item>
+		<item>Portuguese (Brazilian) Felipe (M)</item>
+		<item>Italian Paola (F)</item>
+		<item>Italian Silvana (F)</item>
+		<item>Italian Valentina (F)</item>
+		<item>Italian Luca (M)</item>
+		<item>Italian Marcello (M)</item>
+		<item>Italian Roberto (M)</item>
+		<item>Italian Matteo (M)</item>
+		<item>Italian Giulia (F)</item>
+		<item>Italian Federica (F)</item>
+		<item>Greek Afroditi (F)</item>
+		<item>Greek Nikos (M)</item>
+		<item>Swedish Annika (F)</item>
+		<item>Swedish Sven (M)</item>
+		<item>Chinese (Mandarin) Linlin (F)</item>
+		<item>Chinese (Mandarin) Lisheng (F)</item>
+		<item>Chinese (Mandarin) Lily (F)</item>
+		<item>Chinese (Mandarin) Hui (F)</item>
+		<item>Chinese (Mandarin) Liang (M)</item>
+		<item>Japanese Show (M)</item>
+		<item>Japanese Misaki (F)</item>
+		<item>Korean Yumi (F)</item>
+		<item>Korean Junwoo (M)</item>
+		<item>Dutch Willem (M)</item>
+		<item>Dutch Saskia (F)</item>
+		<item>Polish Zosia (F)</item>
+		<item>Polish Krzysztof (M)</item>
+		<item>Galician Carmela (F)</item>
+		<item>Turkish Kerem (M)</item>
+		<item>Turkish Zeynep (F)</item>
+		<item>Turkish Selin (F)</item>
+		<item>Danish Frida (F)</item>
+		<item>Danish Magnus (M)</item>
+		<item>Norwegian Vilde (F)</item>
+		<item>Norwegian Henrik (M)</item>
+		<item>Russian Olga (F)</item>
+		<item>Russian Dmitri (M)</item>
+		<item>Finnish Milla (F)</item>
+		<item>Finnish Marko (M)</item>
+		<item>Arabic Tarik (M)</item>
+		<item>Arabic Laila (F)</item>
+		<item>Romanian Ioana (F)</item>
+		<item>Esperanto Ludoviko (M)</item>
+	</string-array>
+
+	<string-array name="voices_ids">
+		<item>2_1_1</item>
+		<item>2_1_2</item>
+		<item>2_1_7</item>
+		<item>2_1_8</item>
+		<item>3_1_1</item>
+		<item>3_1_2</item>
+		<item>3_1_3</item>
+		<item>2_1_4</item>
+		<item>2_1_5</item>
+		<item>2_1_6</item>
+		<item>3_1_4</item>
+		<item>2_1_9</item>
+		<item>2_1_10</item>
+		<item>2_1_11</item>
+		<item>2_2_1</item>
+		<item>2_2_2</item>
+		<item>2_2_3</item>
+		<item>2_2_4</item>
+		<item>2_2_5</item>
+		<item>2_2_6</item>
+		<item>2_2_7</item>
+		<item>2_2_8</item>
+		<item>2_2_9</item>
+		<item>2_2_10</item>
+		<item>3_2_1</item>
+		<item>2_3_2</item>
+		<item>2_3_3</item>
+		<item>2_4_2</item>
+		<item>2_4_3</item>
+		<item>2_4_4</item>
+		<item>2_4_5</item>
+		<item>2_4_6</item>
+		<item>2_5_1</item>
+		<item>2_5_2</item>
+		<item>2_5_3</item>
+		<item>2_6_1</item>
+		<item>2_6_2</item>
+		<item>2_6_3</item>
+		<item>2_6_4</item>
+		<item>2_6_5</item>
+		<item>2_7_1</item>
+		<item>2_7_2</item>
+		<item>2_7_3</item>
+		<item>2_7_5</item>
+		<item>2_7_6</item>
+		<item>2_7_7</item>
+		<item>2_7_8</item>
+		<item>2_7_9</item>
+		<item>2_7_10</item>
+		<item>2_8_1</item>
+		<item>2_8_3</item>
+		<item>2_9_1</item>
+		<item>2_9_2</item>
+		<item>2_10_1</item>
+		<item>2_10_2</item>
+		<item>3_10_1</item>
+		<item>3_10_3</item>
+		<item>3_10_4</item>
+		<item>3_12_2</item>
+		<item>3_12_3</item>
+		<item>3_13_1</item>
+		<item>3_13_2</item>
+		<item>2_11_1</item>
+		<item>2_11_2</item>
+		<item>2_14_1</item>
+		<item>2_14_2</item>
+		<item>2_15_1</item>
+		<item>2_16_1</item>
+		<item>2_16_2</item>
+		<item>2_16_3</item>
+		<item>2_19_1</item>
+		<item>2_19_2</item>
+		<item>2_20_1</item>
+		<item>2_20_2</item>
+		<item>2_21_1</item>
+		<item>2_21_2</item>
+		<item>2_23_1</item>
+		<item>2_23_2</item>
+		<item>2_27_1</item>
+		<item>2_27_2</item>
+		<item>2_30_1</item>
+		<item>2_31_1</item>
+	</string-array>
+</resources>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="action_settings">הגדרות</string>
+	<string name="add_page">הוסף עמוד חדש</string>
+	<string name="app_name">מיק תקשורת</string>
+    <string name="audio_not_ready">קובצי הקול עדיין נטענים ברקע. אנא נסה שוב.</string>
+    <string name="browse_and_replace">בחר תמונה מהגלריה והחלף את זו</string>
+    <string name="browse_for_image">בחר תמונה מהגלריה</string>
+   	<string name="cancel">בטל</string>
+	<string name="delete_audio_link">מחק קישור לקובץ הקול</string>
+	<string name="delete_image_from_database">מחק תמונה</string>
+	<string name="delete_video_link">מחק קישור לסרטון</string>
+    <string name="display_tutorial">הצג הדגמה עוד פעם אחת</string>
+	<string name="exit">יציאה</string>
+    <string name="export_completed">הייצוא הסתיים</string>
+   	<string name="export_page">ייצא עמוד</string>
+   	<string name="failure_connecting_to_server">ארעה תקלה ביצירת קשר עם השרת. אנא בדקו את החיבור לאינטרנט ונסו שנית.</string>
+    <string name="help_caption">עזרה</string>
+   	<string name="import_page">ייבא עמוד</string>
+	<string name="link_existing_video">קשר סרטון מהגלריה</string>
+	<string name="link_existing_video_and_replace">קשר סרטון מהגלריה והחלף את זה</string>
+    <string name="media_processing">המדיה עדיין אינה מוכנה. אנא נסו שנית מאוחר יותר.</string>
+	<string name="modify_description">מנוע קול / שנה שם תמונה</string>
+	<string name="modify_description_explanation">כשאין מדיה מקושרת האפליקציה תיצור אוטומטית בעזרת TTS.</string>
+	<string name="not_associated">אין מדיה קשורה לתמונה זו. נגיעה ארוכה להצגת אפשרויות.</string>
+	<string name="ok">אשר</string>
+	<string name="options_name">אפשרויות</string>
+    <string name="page">עמוד</string>
+    <string name="problem_loading_image">ארעה תקלה בטעינת התמונה שבחרת. אנא נסה שנית או בחר תמונה אחרת.</string>
+	<string name="record_audio">הקלט קול</string>
+	<string name="record_audio_and_replace">הקלט קול והחלף את זה</string>
+	<string name="remove_page">מחק עמוד</string>
+    <string name="remove_page_confirmation">האם למחוק את</string>
+	<string name="rename_page">שנה שם עמוד</string>
+    <string name="showcase_tile">נגיעה ארוכה להצגת אפשרויות</string>
+    <string name="showcase_tile_title">תמונות</string>
+    <string name="showcase_swipe">החלק אצבע למעבר עמוד</string>
+    <string name="showcase_swipe_title">עמודים</string>
+    <string name="take_and_replace">צלם תמונה והחלף את זו</string>
+   	<string name="take_photo">צלם תמונה</string>
+    <string name="take_video">צלם סרטון</string>
+    <string name="take_video_and_replace">צלם סרטון והחלף את זה</string>
+    <string name="title_activity_help">מיק תקשורת - עזרה</string>
+    <string name="title_activity_video_playback">מיק תקשורת - נגן הוידאו</string>
+    <string name="unable_to_record_audio">לא מסוגל להקליט קול. אם הבעיה חוזרת, אנא פנה למפתח בnaphtul@gmail.com</string>
+    <string name="video_not_ready">לא מסוגל לנגן את הסרטון. אנא הקלט חדש.</string>
+
+    <!-- Strings related to Settings -->
+	<string name="pref_title_micomm_tile_size">גודל תמונה</string>
+	<string name="pref_title_micomm_num_of_tiles">מספר תמונות מירבי בעמוד</string>
+	<string name="pref_voices">שפת מנוע קול</string>
+	<string name="pref_languages">שפת ממשק</string>
+
+</resources>
